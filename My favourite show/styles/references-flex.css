@@ -98,21 +98,6 @@ main div iframe{
     margin: 5%;
 }
 
-main div audio{
-
-    margin: 5%;
-    margin-top: 10%;
-}
-
-main div span{
-
-    font-family: Helvetica, sans-serif;
-    font-size:x-large;
-    text-decoration: double underline rgb(12, 37, 44);
-    margin: 5%;
-    margin-top: 11%;
-}
-
 footer div{
 
     background-color: rgba(255, 212, 131, 0.65);
